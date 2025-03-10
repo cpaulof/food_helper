@@ -1,0 +1,6 @@
+.gsutil
+.lightning_studio
+/food_dataset
+.zshrc.backup
+google-cloud-cli-linux-x86_64.tar.gz
+google-cloud-sdk/
