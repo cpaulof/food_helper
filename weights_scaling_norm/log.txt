@@ -1,0 +1,57 @@
+Epoch 1/10 - Training: 100%|██████████| 87/87 [01:52<00:00,  1.29s/it]
+Epoch [1/10], Training Loss: 0.6901
+Evaluating: 100%|██████████| 16/16 [00:18<00:00,  1.16s/it]
+
+Validation loss: 0.5755508933216333
+New best model found! Loss improved from inf to 0.5756
+Epoch 2/10 - Training: 100%|██████████| 87/87 [01:57<00:00,  1.35s/it]
+Epoch [2/10], Training Loss: 0.5980
+Evaluating: 100%|██████████| 16/16 [00:18<00:00,  1.17s/it]
+
+Validation loss: 0.4361119233071804
+New best model found! Loss improved from 0.5756 to 0.4361
+Epoch 3/10 - Training: 100%|██████████| 87/87 [01:57<00:00,  1.35s/it]
+Epoch [3/10], Training Loss: 0.5689
+Evaluating: 100%|██████████| 16/16 [00:18<00:00,  1.13s/it]
+
+Validation loss: 0.5245744362473488
+Epoch 4/10 - Training: 100%|██████████| 87/87 [01:50<00:00,  1.27s/it]
+Epoch [4/10], Training Loss: 0.5676
+Evaluating: 100%|██████████| 16/16 [00:14<00:00,  1.09it/s]
+
+Validation loss: 0.37667875178158283
+New best model found! Loss improved from 0.4361 to 0.3767
+Epoch 5/10 - Training: 100%|██████████| 87/87 [01:56<00:00,  1.34s/it]
+Epoch [5/10], Training Loss: 0.5446
+Evaluating: 100%|██████████| 16/16 [00:18<00:00,  1.18s/it]
+
+Validation loss: 0.3953298944979906
+Epoch 6/10 - Training: 100%|██████████| 87/87 [01:58<00:00,  1.36s/it]
+Epoch [6/10], Training Loss: 0.5382
+Evaluating: 100%|██████████| 16/16 [00:18<00:00,  1.17s/it]
+
+Validation loss: 0.41547488048672676
+Epoch 7/10 - Training: 100%|██████████| 87/87 [01:41<00:00,  1.17s/it]
+Epoch [7/10], Training Loss: 0.5396
+Evaluating: 100%|██████████| 16/16 [00:14<00:00,  1.08it/s]
+
+Validation loss: 0.3513830825686455
+New best model found! Loss improved from 0.3767 to 0.3514
+Epoch 8/10 - Training: 100%|██████████| 87/87 [01:34<00:00,  1.08s/it]
+Epoch [8/10], Training Loss: 0.5296
+Evaluating: 100%|██████████| 16/16 [00:14<00:00,  1.13it/s]
+
+Validation loss: 0.37424998730421066
+Epoch 9/10 - Training: 100%|██████████| 87/87 [01:40<00:00,  1.15s/it]
+Epoch [9/10], Training Loss: 0.5140
+Evaluating: 100%|██████████| 16/16 [00:18<00:00,  1.17s/it]
+
+Validation loss: 0.3334760880097747
+New best model found! Loss improved from 0.3514 to 0.3335
+Epoch 10/10 - Training: 100%|██████████| 87/87 [01:57<00:00,  1.35s/it]
+Epoch [10/10], Training Loss: 0.5152
+Evaluating: 100%|██████████| 16/16 [00:18<00:00,  1.14s/it]
+
+Validation loss: 0.3303048014640808
+New best model found! Loss improved from 0.3335 to 0.3303
+Training finished.
